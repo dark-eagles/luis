@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest  xmlns:android="http://schemas.android.com/apk/res/android"
- android:versionCode="751203" android:versionName="7.5.1d" android:installLocation="0" android:compileSdkVersion="29" android:compileSdkVersionCodename="10" package="com.gameloft.android.ANMP.GloftDMHM" platformBuildVersionCode="29" platformBuildVersionName="10">
+ android:versionCode="781203" android:versionName="7.8.1a" android:installLocation="0" android:compileSdkVersion="29" android:compileSdkVersionCodename="10" package="com.gameloft.android.ANMP.GloftDMHM" platformBuildVersionCode="29" platformBuildVersionName="10">
 	<uses-sdk android:minSdkVersion="16" android:targetSdkVersion="29">
 	</uses-sdk>
 	<uses-permission android:name="android.permission.FOREGROUND_SERVICE">
